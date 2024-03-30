@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="rgrgogu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgrgogu" alt="rgrgogu" /></a> </p>
-
 - 🔭 I’m currently working on **Intern Project**
 
 - 🌱 I’m currently learning **Vue and Nuxt JS**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rogu</h1>
 <h3 align="center"></et. al></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgrgogu&label=Profile%20views&color=0e75b6&style=flat" alt="rgrgogu" /> </p>
+<p align="left"> <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="rgrgogu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgrgogu" alt="rgrgogu" /></a> </p>
 
